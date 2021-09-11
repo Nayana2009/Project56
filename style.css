@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+    background:  linear-gradient(to right,#61b7df,#bdf4f2,#e2bcfe);
+    background-repeat: no-repeat;
+}
+h1{
+ text-shadow: 2px 2px #F8BBD0;   
+    font-size: 25px;
+}
+#bio{
+ padding: 20px  ;
+font-size:18 ;
+  text-align: center;  
+}
+img{
+ border:solid;
+    border-color: aliceblue;
+}
